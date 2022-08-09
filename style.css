@@ -6,12 +6,15 @@ body {
 }
 
 h1 {
+  padding: 0 15px;
+  font-size: 30px;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
 }
 
 p {
-  font-size: 20px;
+  padding: 0 20px;
+  font-size: 18px;
   font-weight: 400;
   color: hsl(220, 15%, 55%);
 }
